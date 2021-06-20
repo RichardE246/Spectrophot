@@ -1,5 +1,5 @@
 # Spectrophot
-Capstone Project - creation of a visible light spectrophotometer
+Capstone Project - Creation of a visible light spectrophotometer for the purpose of measuring glucose in solution.
 
-
-video link - https://www.youtube.com/watch?v=1GIqA9UIFCE 
+ 
+Video Link - https://www.youtube.com/watch?v=1GIqA9UIFCE 
